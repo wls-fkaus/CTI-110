@@ -1,4 +1,5 @@
 # Example similar to P4HW1
+# Jin Pak
 # Ask the user how many grades 
 # Create a list 
 avaliableitems = ["bows", "toy", "litter", "pot", "kitkat", "treat"] 
